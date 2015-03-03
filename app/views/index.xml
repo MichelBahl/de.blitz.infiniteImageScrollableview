@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ScrollableView id="pics">
+			<Widget src="de.blitz.infiniteImageScrollableview" id="ifScollableview"></Widget>
+		</ScrollableView>
+	</Window>
+</Alloy>
