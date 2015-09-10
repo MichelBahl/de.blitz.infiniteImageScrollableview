@@ -17,4 +17,17 @@ $.ifScollableview.init({
 });
 
 
+/* Event listener
+ * 
+ */
+function doReachLeftEnd(e){
+	Ti.API.info("doReachLeftEnd");
+	e.unshiftImages(["/images/addedtotheleft.jpg"]);	
+}
+
+function doReachRightEnd(e){
+	Ti.API.info("doReachRightEnd");
+	e.appendImages("/images/addedtotheright.jpg");
+}
+
 $.index.open();
