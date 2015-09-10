@@ -1,0 +1,13 @@
+{
+	"id": "de.blitz.infiniteImageScrollableview",
+	"name": "de.blitz.infiniteImageScrollableview",
+	"description" : "Lazy loading infinite scrollable view",
+	"author": "M. Bahl",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"ios,android"
+}

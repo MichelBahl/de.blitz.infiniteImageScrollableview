@@ -1,0 +1,4 @@
+".defaultImage" : {
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.SIZE
+}

@@ -1,0 +1,4 @@
+<Alloy>
+	<!-- Would crahs on iOS without dummy view-->
+	<View></View>
+</Alloy>
